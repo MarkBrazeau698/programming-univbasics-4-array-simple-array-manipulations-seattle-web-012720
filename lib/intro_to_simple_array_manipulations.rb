@@ -32,5 +32,7 @@ def using_insert(array, newb)
   array.insert(4, newb)
 end
 
+def using_uniq(array)
+  
   
 

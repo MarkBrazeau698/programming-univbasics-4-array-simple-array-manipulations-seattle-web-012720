@@ -33,6 +33,7 @@ def using_insert(array, newb)
 end
 
 def using_uniq(array)
-  
-  
+  array.uniq
+end
+
 
